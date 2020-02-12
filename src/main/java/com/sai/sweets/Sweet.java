@@ -1,4 +1,4 @@
-package com.yashkashyap.sweets;
+package com.sai.sweets;
 
 import java.util.Comparator;
 
