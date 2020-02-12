@@ -1,4 +1,4 @@
-package com.yashkashyap.chocolates;
+package com.sai.chocolates;
 
 public class Chocolate
 {
