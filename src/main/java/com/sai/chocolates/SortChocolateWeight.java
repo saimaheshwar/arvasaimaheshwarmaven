@@ -1,7 +1,7 @@
-package com.yashkashyap.chocolates;
+package com.sai.chocolates;
 
 import java.util.Comparator;
-import com.yashkashyap.chocolates.Chocolate;
+import com.sai.chocolates.Chocolate;
 
 public class SortChocolateWeight implements Comparator<Chocolate>
 {
