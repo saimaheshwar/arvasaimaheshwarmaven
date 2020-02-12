@@ -1,9 +1,9 @@
-package com.yashkashyap.gift;
+package com.sai.gift;
 
 import java.util.Scanner;
 import java.util.Arrays;
-import com.yashkashyap.chocolates.*;
-import com.yashkashyap.sweets.*;
+import com.sai.chocolates.*;
+import com.sai.sweets.*;
 
 public class Gift
 {
