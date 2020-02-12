@@ -1,7 +1,7 @@
-package com.yashkashyap.sweets;
+package com.sai.sweets;
 
 import java.util.Comparator;
-import com.yashkashyap.sweets.Sweet;
+import com.sai.sweets.Sweet;
 
 public class SortSweetPrice implements Comparator<Sweet>
 {
